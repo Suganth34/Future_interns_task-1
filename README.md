@@ -43,7 +43,7 @@ This project is a high-fidelity mobile UI prototype designed to streamline the f
 
 | *Home Screen* | *Item Details* | *My Cart* | *Payment* |
 |:---:|:---:|:---:|:---:|
-| <img src="home.png" width="200"> | <img src="details.png" width="200"> | <img src="cart.png" width="200"> | <img src="payment.png" width="200"> |
+| <img src="Home page.png" width="200"> | <img src="details.png" width="200"> | <img src="Cart.png" width="200"> | <img src="Payment.png" width="200"> |
 
 > Note: Click images to view full resolution.
 
